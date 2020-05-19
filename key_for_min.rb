@@ -3,7 +3,8 @@
 
 def key_for_min_value(name_hash)
 
-  if name_hash.size == 0
-    return nil
-  end
+  #if name_hash.size == 0
+  #  return nil
+  #end
+#end
 end
